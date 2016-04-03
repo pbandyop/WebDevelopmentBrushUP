@@ -6,7 +6,7 @@ Development Environment:
 2) Local server - Apache (apache2)
 
 
-Install Apache in Ubuntu:
+<b>Install Apache in Ubuntu:</b>
 
 Disclaimer: The below instructions are for Ubuntu 12.04, might change slightly for other versions of Ubuntu.
 
